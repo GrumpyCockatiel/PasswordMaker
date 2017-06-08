@@ -1,0 +1,8 @@
+#Visual Studio stuff
+
+bin
+
+obj
+
+Properties
+packages.config
