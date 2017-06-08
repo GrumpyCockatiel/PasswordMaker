@@ -1,9 +1,7 @@
 #Visual Studio stuff
-
 bin
-
 obj
-
+*.userprefs
 Properties
 packages.config
 .vs
